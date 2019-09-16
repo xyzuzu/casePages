@@ -1,5 +1,5 @@
 # casePages
-<h1>These are case pages:</h1>
+These are case pages:
 <br/>
 <br/>
 <h2>dionly</h2>
