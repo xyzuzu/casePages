@@ -9,6 +9,8 @@ These are case pages:
 <br/>
 <a href="http://dev.pos.esgao.cn/#/" target="_blank">3.零售智慧商业系统</a>
 <br/>
+<a href="http://api.chubankuai.6cheng.com.cn" target="_blank">4.出版快管理系统</a>
+<br/>
 <br/>
 <h2>PC(P)/H5(H)页面</h2>
 <a href="http://www.ieasygo.cn/index.html" target="_blank">1.EASYGO官网(P&&H)</a>
