@@ -23,7 +23,11 @@ These are case pages:
 <br/>
 <a href="http://api.store.ieasygo.cn/scanCodeTrade/#/" target="_blank">5.扫码购入店运营工具(H)</a>
 <br/>
-<a href="http://astore.kmud.net/test/map/index.html" target="_blank">6.招商加盟H5（H）</a>
+<a href="https://h5.esgao.cn/easygo-attract/#/" target="_blank">6.招商加盟H5（H）</a>
+<br/>
+<a href="https://h5.esgao.cn/easygo-createimage/#/" target="_blank">7.迎国庆，换头像H5（H）</a>
+<br/>
+<a href="https://h5.esgao.cn/easygo-worldcup/#/" target="_blank">8.世界杯H5（H）</a>
 <br/>
 <br/>
 <h2>微信小程序</h2>
@@ -35,9 +39,15 @@ These are case pages:
 <br/>
 <a href="javascript:void(0)">4.EasyGo运营工具</a>
 <br/>
-<a href="javascript:void(0)">5.EasyGo智能货柜</a>
+<a href="javascript:void(0)">5.EasyGo智能货柜(订购)</a>
 <br/>
 <a href="javascript:void(0)">6.EG数据分析小程序系列（门店/货柜/超市）</a>
+<br/>
+<a href="javascript:void(0)">7.好礼相赠</a>
+<br/>
+<a href="javascript:void(0)">8.EasyGo扫码购</a>
+<br/>
+<a href="javascript:void(0)">9.EasyGo优选 （商城系列 后期开发维护）</a>
 <br/>
 <br/>
 <h2>校内作品</h2>
